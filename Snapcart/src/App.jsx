@@ -1,6 +1,11 @@
 
 export default function App(){
   return(
-    <h1>Snapcart</h1>
+    <div>
+      <div>
+        <img src="Naomi.jpeg" alt="" />
+        <h1>hello</h1>
+      </div>
+    </div>
   );
 }
